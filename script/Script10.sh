@@ -1,6 +1,6 @@
 #!/bin/bash
 #This script is to check if and else
-a=10
+a=20
 b=20
 if [ $a -gt $b ]
 then
